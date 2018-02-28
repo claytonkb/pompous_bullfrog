@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1519755948 source:c:\cbauman\pompous_bullfrog\main.c
+	<stdio.h>
+	<memory.h>
+	<string.h>
+	"sha256.h"
+
+1519747414 c:\cbauman\pompous_bullfrog\sha256.h
+	<stddef.h>
+
+1519755855 source:c:\cbauman\pompous_bullfrog\sha256.c
+	<stdlib.h>
+	<memory.h>
+	"sha256.h"
+	<stdio.h>
+
